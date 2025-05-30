@@ -9,7 +9,7 @@
 - Gerçek zamanlı, kesintisiz animasyon
 
 ## Oynamak için:
-🔗 [Buraya tıkla!](https://tuanaerdenn.github.io/ucan-kelebekler/)
+🔗 [Buraya tıkla!](https://tuanaerdenn.github.io/LiveChart/)
 
 ## Kullanılan Teknolojiler:
 - HTML5
